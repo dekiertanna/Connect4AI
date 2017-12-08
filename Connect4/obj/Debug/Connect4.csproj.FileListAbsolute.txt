@@ -1,0 +1,10 @@
+D:\Users\Anna\Documents\GitHub\Connect4AI\Connect4AI\Connect4\obj\Debug\Connect4.csprojResolveAssemblyReference.cache
+D:\Users\Anna\Documents\GitHub\Connect4AI\Connect4AI\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+D:\Users\Anna\Documents\GitHub\Connect4AI\Connect4AI\Connect4\obj\Debug\Connect4.csproj.GenerateResource.Cache
+D:\Users\Anna\Documents\GitHub\Connect4AI\Connect4AI\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+D:\Users\Anna\Documents\GitHub\Connect4AI\Connect4AI\Connect4\bin\Debug\Connect4.exe.config
+D:\Users\Anna\Documents\GitHub\Connect4AI\Connect4AI\Connect4\bin\Debug\Connect4.exe
+D:\Users\Anna\Documents\GitHub\Connect4AI\Connect4AI\Connect4\bin\Debug\Connect4.pdb
+D:\Users\Anna\Documents\GitHub\Connect4AI\Connect4AI\Connect4\obj\Debug\Connect4.exe
+D:\Users\Anna\Documents\GitHub\Connect4AI\Connect4AI\Connect4\obj\Debug\Connect4.pdb
+D:\Users\Anna\Documents\GitHub\Connect4AI\Connect4AI\Connect4\obj\Debug\Connect4.MainWindow.resources
